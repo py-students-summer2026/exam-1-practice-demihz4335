@@ -15,9 +15,6 @@ def main():
     to try out from the other files where you have written code.
     """
 
-    # for example... the following line will call the bark() function in problem_set_1 whenever this main.py file is run.
-    bark()
-
 
 # call the main function
 main()
